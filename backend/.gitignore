@@ -1,0 +1,7 @@
+node_modules
+.env
+
+# Arquivo apenas para facilitar criar as classes
+base.ts
+
+/src/generated/prisma
